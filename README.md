@@ -1,6 +1,6 @@
 # Clean Spring Boot Project
 
-This project is a template for a Spring Boot application with complete authentication and API CRUD operations. It includes features such as user signup with email verification, login, password reset, product management with paginated lists, and detailed unit tests. The project is built using Maven and follows a clean architecture.
+This project is a template for a Spring Boot application with complete authentication and API CRUD operations. It includes features such as user signup with email verification, login, password reset, product management with paginated lists, and detailed unit tests. The project is built using Maven and follows a clean architecture. Feel free to ask any questions or share your thoughts.
 
 #### Reference
 You can visit my blog post- [Clean Spring Boot Project](https://binarybytez.com/clean-spring-boot-project/)
